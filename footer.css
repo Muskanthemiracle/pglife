@@ -1,0 +1,24 @@
+#row
+{
+	border:3px solid black;
+	width:1350px;
+	height:100px;
+	Background-color:black;
+	color:white;
+	text-align:center;
+	
+}
+a:link{
+	position:relative;
+	top:20px;
+	text-decoration:none;
+	Background-color:black;
+	color:white;
+	
+}
+
+ul li{
+	
+	display:inline;
+	text-decoration:none;
+}

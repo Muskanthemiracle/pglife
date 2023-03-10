@@ -1,0 +1,66 @@
+.ab{
+	width:1200px;
+	height:400px;
+}
+.sb{
+	position:relative;
+	top:20px;
+	display:float;
+	float:right;
+	width:100px;
+	height:50px;
+}
+
+
+
+#pic{
+	width:120px;
+	height:80px;
+}
+#pc{
+	width:1350px;
+	background-color:white;
+}
+marquee
+{
+width:1350px;
+direction:right;
+position:relative;
+	top:20px;
+}
+#h
+{
+	position:relative;
+	top:50px;
+	text-align:center;
+}
+
+#im{
+	background-color:white;
+	height:250px;
+}
+input{
+	width:100px;
+	height:50px;
+}
+#foot
+{
+position:relative;
+	top:20px;
+}
+.is
+{   width:150px;
+	height:150px;
+	
+}
+.bt
+{position:relative;
+	top:20px;
+	left:230px;
+	height:250px;
+	text-align:center;
+	background-color:white;
+	border:none;
+	margin:0px;
+	padding:0px;
+}
